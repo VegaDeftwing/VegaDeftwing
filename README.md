@@ -2,7 +2,7 @@
 
 **Primary maintainer of [Opinionated Guides](https://opinionatedguide.github.io/#/)**
 
-RFID chipped furry synthesis and guitar nerd, often found programming guitars and playing computers. I strum Dvorak, and type in chords. I'm da boi with a vacuum tube around his neck.
+RFID chipped, furry, modular synthesis nerd, often found programming guitars and playing computers. I strum Dvorak, and type in chords. I'm da boi with a vacuum tube around his neck.
 
 
 
