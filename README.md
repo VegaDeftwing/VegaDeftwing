@@ -1,3 +1,5 @@
+[![trophy](https://github-profile-trophy.vercel.app/?username=VegaDeftwing)](https://github.com/ryo-ma/github-profile-trophy)
+
 > Vega is the brightest star in the northern constellation of Lyra. It has the Bayer designation α Lyrae. 
 
 **Primary maintainer of [Opinionated Guides](https://opinionatedguide.github.io/#/)**
