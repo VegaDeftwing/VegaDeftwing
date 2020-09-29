@@ -8,7 +8,7 @@ RFID chipped, furry, modular synthesis nerd, often found programming guitars and
 
 
 
-![Degenerate](https://opinionatedguide.github.io/openg/box.png)
+![Degenerate](https://opinionatedguide.github.io/media/box.png)
 
 
 
