@@ -2,7 +2,7 @@
 
 > Vega is the brightest star in the northern constellation of Lyra. It has the Bayer designation α Lyrae. 
 
-**Primary maintainer of [Opinionated Guides](https://opinionatedguide.github.io/#/)**
+**Primary maintainer of [Opinionated Guides](https://opguides.info)**
 
 RFID chipped, furry, modular synthesis nerd, often found programming guitars and playing computers. I strum Dvorak, and type in chords. I'm da boi with a vacuum tube around his neck.
 
